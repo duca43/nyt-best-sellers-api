@@ -8,7 +8,7 @@ use App\Http\Resources\Nyt\BestSellerResource;
 use App\Services\Nyt\BestSellersService;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
-use Symfony\Component\HttpKernel\Exception\BadRequestHttpException;
+use Symfony\Component\HttpKernel\Exception\HttpException;
 use Symfony\Component\HttpKernel\Exception\TooManyRequestsHttpException;
 
 class BestSellersController extends Controller
@@ -32,8 +32,8 @@ class BestSellersController extends Controller
             return BestSellerResource::collection($bestSellers)->response();
         } catch (TooManyRequestsHttpException $e) {
             return response()->json(['message' => $e->getMessage()], 429);
-        } catch (BadRequestHttpException $e) {
-            return response()->json(['message' => $e->getMessage()], 400);
+        } catch (HttpException $e) {
+            return response()->json(['message' => $e->getMessage()], 500);
         }
     }
 }

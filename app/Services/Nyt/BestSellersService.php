@@ -27,8 +27,8 @@ class BestSellersService extends NytService
      * @return array|null Returns an array containing data if available, or null if data is not available.
      * @throws Symfony\Component\HttpKernel\Exception\TooManyRequestsHttpException
      *                 Thrown if the API returns a rate limit exceeded error.
-     * @throws Symfony\Component\HttpKernel\Exception\BadRequestHttpException
-     *                 Thrown if the API returns an error status indicating that the list data is not available.
+     * @throws Symfony\Component\HttpKernel\Exception\HttpException
+     *                 Thrown if the API returns an error status.
      */
     public function getBestSellers(array $queryParams): array
     {
