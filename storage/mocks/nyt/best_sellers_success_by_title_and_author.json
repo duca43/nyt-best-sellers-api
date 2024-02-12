@@ -1,0 +1,261 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 5,
+    "results": [
+        {
+            "title": "100 BULLETS DELUXE, BOOK 1",
+            "description": "This deluxe edition of the noir series, about a man named Graves who gives wronged people an untraceable gun to exact revenge, collects issues 20 through 36.",
+            "contributor": "by Brian Azzarello and Eduaro Risso",
+            "author": "Brian Azzarello and Eduaro Risso",
+            "contributor_note": "",
+            "price": "49.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "None",
+                    "primary_isbn13": "9781401233723",
+                    "rank": 6,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2012-05-06",
+                    "bestsellers_date": "2012-04-21",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "100 BULLETS, VOL. 13",
+            "description": "No spoilers! The noir series, about vengeance and violence, reaches its conclusion.",
+            "contributor": "by Brian Azzarello and Eduardo Risso",
+            "author": "Brian Azzarello and Eduardo Risso",
+            "contributor_note": "",
+            "price": "19.99",
+            "age_group": "",
+            "publisher": "Vertigo",
+            "isbns": [
+
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1401222870",
+                    "primary_isbn13": "9781401222871",
+                    "rank": 2,
+                    "list_name": "Paperback Graphic Books",
+                    "display_name": "Paperback Graphic Books",
+                    "published_date": "2009-08-02",
+                    "bestsellers_date": "2009-07-18",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 10,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401222870",
+                    "primary_isbn13": "9781401222871",
+                    "rank": 10,
+                    "list_name": "Paperback Graphic Books",
+                    "display_name": "Paperback Graphic Books",
+                    "published_date": "2009-07-26",
+                    "bestsellers_date": "2009-07-11",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "100 BULLETS: BOOK ONE",
+            "description": "This deluxe edition of the noir series, about a man named Graves who gives wronged people an untraceable gun to exact revenge, collects issues 1 through 19.",
+            "contributor": "by Brian Azzarello and Eduardo Risso",
+            "author": "Brian Azzarello and Eduardo Risso",
+            "contributor_note": "",
+            "price": "49.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401232019",
+                    "isbn13": "9781401232016"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1401232019",
+                    "primary_isbn13": "9781401232016",
+                    "rank": 8,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2011-11-13",
+                    "bestsellers_date": "2011-10-29",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401232019",
+                    "primary_isbn13": "9781401232016",
+                    "rank": 6,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2011-11-06",
+                    "bestsellers_date": "2011-10-22",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "100 BULLETS: DELUXE EDITION, BOOK FOUR",
+            "description": "This deluxe edition of the noir series, about a man named Graves who gives wronged people an untraceable gun to exact revenge, collects issues 59 through 80.",
+            "contributor": "by Brian Azzarello and Eduardo Risso",
+            "author": "Brian Azzarello and Eduardo Risso",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401238076",
+                    "isbn13": "9781401238070"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1401238076",
+                    "primary_isbn13": "9781401238070",
+                    "rank": 4,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-05-26",
+                    "bestsellers_date": "2013-05-11",
+                    "weeks_on_list": 4,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401238076",
+                    "primary_isbn13": "9781401238070",
+                    "rank": 9,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-05-19",
+                    "bestsellers_date": "2013-05-04",
+                    "weeks_on_list": 3,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401238076",
+                    "primary_isbn13": "9781401238070",
+                    "rank": 7,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-05-12",
+                    "bestsellers_date": "2013-04-27",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401238076",
+                    "primary_isbn13": "9781401238070",
+                    "rank": 4,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2013-05-05",
+                    "bestsellers_date": "2013-04-20",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "100 BULLETS: DELUXE EDITION, BOOK THREE",
+            "description": "This deluxe edition of the noir series, about a man named Graves who gives wronged people an untraceable gun to exact revenge, collects issues 37 through 58.",
+            "contributor": "Brian Azzarello and Edward Risso",
+            "author": "Brian Azzarello and Edward Risso",
+            "contributor_note": "",
+            "price": "49.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401237290",
+                    "isbn13": "9781401237295"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1401237290",
+                    "primary_isbn13": "9781401237295",
+                    "rank": 2,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2012-10-14",
+                    "bestsellers_date": "2012-09-29",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        }
+    ]
+}

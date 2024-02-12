@@ -1,0 +1,57 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 22,
+    "results": [
+        {
+            "title": "$100 STARTUP",
+            "description": "How to build a profitable start up for $100 or less and be your own boss.",
+            "contributor": "by Chris Guillebeau",
+            "author": "Chris Guillebeau",
+            "contributor_note": "",
+            "price": "23.00",
+            "age_group": "",
+            "publisher": "Crown Business",
+            "isbns": [
+                {
+                  "isbn10": "0307951529",
+                  "isbn13": "9780307951526"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "'57, Chicago",
+            "description": null,
+            "contributor": null,
+            "author": "Steve Monroe",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                  "isbn10": "0786867302",
+                  "isbn13": "9780786867301"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/07/29/books/books-in-brief-fiction-poetry-319660.html",
+                    "article_chapter_link": null
+                }
+            ]
+        }
+    ]
+}

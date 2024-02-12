@@ -1,0 +1,190 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 5,
+    "results": [
+        {
+            "title": "$100 STARTUP",
+            "description": "How to build a profitable start up for $100 or less and be your own boss.",
+            "contributor": "by Chris Guillebeau",
+            "author": "Chris Guillebeau",
+            "contributor_note": "",
+            "price": "23.00",
+            "age_group": "",
+            "publisher": "Crown Business",
+            "isbns": [
+                {
+                  "isbn10": "0307951529",
+                  "isbn13": "9780307951526"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "'57, Chicago",
+            "description": null,
+            "contributor": null,
+            "author": "Steve Monroe",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                  "isbn10": "0786867302",
+                  "isbn13": "9780786867301"
+                }
+            ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/2001/07/29/books/books-in-brief-fiction-poetry-319660.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "'ROCK OF AGES: ''ROLLING STONE'' HISTORY OF ROCK AND ROLL'",
+            "description": null,
+            "contributor": null,
+            "author": "GEOFFREY STOKES, KEN TUCKER' 'ED WARD",
+            "contributor_note": null,
+            "price": "0.00",
+            "age_group": null,
+            "publisher": null,
+            "isbns": [
+                {
+                  "isbn10": "0671630687",
+                  "isbn13": "9780671630683"
+                }
+              ],
+            "ranks_history": [],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": null,
+                    "sunday_review_link": "https://www.nytimes.com/1986/12/28/books/three-chord-music-in-a-three-piece-suit.html",
+                    "article_chapter_link": null
+                }
+            ]
+        },
+        {
+            "title": "'TIL DEATH DO US PART",
+            "description": "A matchmaker in Victorian England turns to a crime novelist for help when she starts receiving a series of disturbingly personalized trinkets.",
+            "contributor": "by Amanda Quick",
+            "author": "Amanda Quick",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Berkley",
+            "isbns": [
+                {
+                  "isbn10": "069819361X",
+                  "isbn13": "9780698193611"
+                },
+                {
+                  "isbn10": "039917446X",
+                  "isbn13": "9780399174469"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "069819361X",
+                    "primary_isbn13": "9780698193611",
+                    "rank": 15,
+                    "list_name": "Combined Print and E-Book Fiction",
+                    "display_name": "Combined Print & E-Book Fiction",
+                    "published_date": "2016-05-08",
+                    "bestsellers_date": "2016-04-23",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "069819361X",
+                    "primary_isbn13": "9780698193611",
+                    "rank": 9,
+                    "list_name": "E-Book Fiction",
+                    "display_name": "E-Book Fiction",
+                    "published_date": "2016-05-08",
+                    "bestsellers_date": "2016-04-23",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "title": "'TIS THE SEASON",
+            "description": "Two classic holiday stories — \"Under the Christmas Tree\" (2009) and \"Midnight Confessions\" (2010) — plus the novella \"Backward Glance\" (1991).",
+            "contributor": "by Robyn Carr",
+            "author": "Ron Carr",
+            "contributor_note": "",
+            "price": "0.00",
+            "age_group": "",
+            "publisher": "Harlequin Mira",
+            "isbns": [
+                {
+                  "isbn10": "0778316645",
+                  "isbn13": "9780778316640"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "0778316645",
+                    "primary_isbn13": "9780778316640",
+                    "rank": 18,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2014-11-30",
+                    "bestsellers_date": "2014-11-15",
+                    "weeks_on_list": 0,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "0778316645",
+                    "primary_isbn13": "9780778316640",
+                    "rank": 6,
+                    "list_name": "Mass Market Paperback",
+                    "display_name": "Paperback Mass-Market Fiction",
+                    "published_date": "2014-11-16",
+                    "bestsellers_date": "2014-11-01",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 1,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        }
+    ]
+}

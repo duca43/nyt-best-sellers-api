@@ -1,0 +1,59 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1,
+    "results": [
+        {
+            "title": "100 BULLETS: BOOK ONE",
+            "description": "This deluxe edition of the noir series, about a man named Graves who gives wronged people an untraceable gun to exact revenge, collects issues 1 through 19.",
+            "contributor": "by Brian Azzarello and Eduardo Risso",
+            "author": "Brian Azzarello and Eduardo Risso",
+            "contributor_note": "",
+            "price": "49.99",
+            "age_group": "",
+            "publisher": "DC Comics",
+            "isbns": [
+                {
+                    "isbn10": "1401232019",
+                    "isbn13": "9781401232016"
+                }
+            ],
+            "ranks_history": [
+                {
+                    "primary_isbn10": "1401232019",
+                    "primary_isbn13": "9781401232016",
+                    "rank": 8,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2011-11-13",
+                    "bestsellers_date": "2011-10-29",
+                    "weeks_on_list": 2,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                },
+                {
+                    "primary_isbn10": "1401232019",
+                    "primary_isbn13": "9781401232016",
+                    "rank": 6,
+                    "list_name": "Hardcover Graphic Books",
+                    "display_name": "Hardcover Graphic Books",
+                    "published_date": "2011-11-06",
+                    "bestsellers_date": "2011-10-22",
+                    "weeks_on_list": 1,
+                    "rank_last_week": 0,
+                    "asterisk": 0,
+                    "dagger": 0
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        }
+    ]
+}
