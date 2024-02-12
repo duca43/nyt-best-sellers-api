@@ -18,8 +18,10 @@ class OffsetRule implements ValidationRule
             return;
         }
 
-        if ($value % 20 !== 0) {
-            $fail('Offset must be a multiple of 20');
+        $perPage = config('nyt.books_api_default_per_page');
+
+        if ($value % $perPage !== 0) {
+            $fail("Offset must be a multiple of $perPage");
         }
     }
 }
