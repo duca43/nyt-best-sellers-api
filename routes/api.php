@@ -17,6 +17,6 @@ use Illuminate\Support\Facades\Route;
 
 Route::prefix('v1')->group(function () {
     Route::prefix('nyt')->group(function () {
-        Route::get('best-sellers', [BestSellersController::class, 'index']);
+        Route::get('best-sellers', [BestSellersController::class, 'index'])->name('nyt.best-sellers');
     });
 });
