@@ -25,4 +25,16 @@ return [
     */
 
     'books_api_key' => env('NYT_BOOKS_API_KEY'),
+
+    /*
+    |--------------------------------------------------------------------------
+    | New York Times Books API Default per page value
+    |--------------------------------------------------------------------------
+    |
+    | This value represents default number of results returned per page for
+    | GET endpoints in Books API.
+    |
+    */
+
+    'books_api_default_per_page' => 20
 ];
